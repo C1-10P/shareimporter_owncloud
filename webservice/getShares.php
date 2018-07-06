@@ -1,8 +1,8 @@
 <?php
 
 
-if(isset( $_GET["user"]) && isset($_GET["api_key"])) {
-       $user = $_GET["user"];
+if(isset( $_GET["user_name"]) && isset($_GET["api_key"])) {
+       $user = $_GET["user_name"];
        $api_key = $_GET["api_key"];
 
 
