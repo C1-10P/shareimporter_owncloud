@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>shareimporter</id>
+    <name>ShareImporter</name>
+    <description>My first ownCloud App</description>
+    <licence>AGPL</licence>
+    <author>...</author>
+    <version>0.0.1</version>
+    <namespace>ShareImporter</namespace>
+    <category>tool</category>
+    <dependencies>
+       <owncloud min-version="10.0" max-version="10.0" />
+    </dependencies>
+</info>
